@@ -24,3 +24,4 @@ Index Of Files in order of completion (some were extra curricular):
 10. File IO assignment (Produced Min Max Average and list of scores)
 
 11. Test (final exam alternative,  uses structure of array for score calculations with multable students)
+Note: Requires input file "Scores.txt"
