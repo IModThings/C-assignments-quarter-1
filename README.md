@@ -22,6 +22,7 @@ Index Of Files in order of completion (some were extra curricular):
 9. Mousetrap Car Calculator (Does the math for theoretical mousetram car. (I had a 70% ineffencicy factor on my car)
 
 10. File IO assignment (Produced Min Max Average and list of scores)
+Requires Input file "Input.dat"
 
 11. Test (final exam alternative,  uses structure of array for score calculations with multable students)
-Note: Requires input file "Scores.txt"
+Note: Requires input file "Scores.dat"
